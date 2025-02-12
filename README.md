@@ -25,7 +25,7 @@ The real-time detection system is implemented using **OpenCV**, **MediaPipe**, a
 - Loads and preprocesses image data  
 - Builds a **Convolutional Neural Network (CNN)** for classifying **eye state (open/closed)**  
 - Trains the model on labeled eye images  
-- Saves the trained model as `Driver_Drowsiness_Detection.h5`  
+- Saves the trained model as `Driver_Drowsiness_Detection_Model.h5`  
 
 ### **2. Real-Time Detection (`Drowsiness_Detection_Runtime.py`)**  
 - Uses **MediaPipe** to detect **face landmarks**  
