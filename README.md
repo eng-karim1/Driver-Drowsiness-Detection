@@ -1,5 +1,5 @@
 # **Driver Drowsiness Detection Using Deep Learning**  
-**Driver Drowsiness Detection Using Deep Learning (Raspberry Pi Version)**
+
 ## **Overview**  
 This project aims to detect driver drowsiness using deep learning and computer vision techniques. The model monitors three key indicators of drowsiness:  
 - **Eye closure detection** (to identify closed vs. open eyes)  
